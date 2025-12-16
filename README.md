@@ -62,11 +62,15 @@ Model graph:
 
 
 Open circuit characteristics
+![WhatsApp Image 2025-12-16 at 18 04 01_15c5d687](https://github.com/user-attachments/assets/adc91ec7-eb8c-4df0-b4b0-7c7dcd6b3a21)
+
 <img width="855" height="739" alt="Screenshot 2025-12-16 103642" src="https://github.com/user-attachments/assets/05dae58b-f49e-44a5-90dd-e92e5f36d2e2" />
 
 
   
 Load Characteristics:
+![WhatsApp Image 2025-12-16 at 18 23 39_d2948b4c](https://github.com/user-attachments/assets/2b2195f3-57a0-42cb-81fd-1b752e5032c8)
+
 <img width="1101" height="867" alt="Screenshot 2025-12-16 180746" src="https://github.com/user-attachments/assets/8a22e751-5fbe-4293-b3bb-2efac3cf352b" />
 
  
